@@ -1,2 +1,2 @@
-# URI_judge_Cplusplus
-Armazenamento de códigos em C++ para as perguntas no URI judge
+# Beecrowd_judge_Cplusplus
+Armazenamento de códigos em C++ para as perguntas no Beecrowd judge
